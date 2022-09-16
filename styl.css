@@ -1,0 +1,39 @@
+section {
+    display: grid;
+    width: 100vw;
+}
+
+div {
+    width: 50vw;
+    margin: 0 auto;
+    background-color: pink;
+}
+
+div:hover{
+    background-color: rgb(104, 2, 45);
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(0, 67, 126);
+    font-size: 73px;
+    text-align: center;
+    color: aliceblue;
+}
+
+h1:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(241, 7, 7);
+}
+h2:hover{
+    color: aliceblue;
+}
+
+
+
